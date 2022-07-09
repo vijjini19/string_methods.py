@@ -1,0 +1,38 @@
+'''string methods'''
+1.capitalize()-the capitalize method converts the first charecter of the string to the upper case and remaining to the lower case.
+2.casefold()-this converts the string into lower case.
+3.center()-
+4.count()-returns the number of times a specified value in a string.
+5.encode()-returns the encoded version of the string.
+6.endswith()-endswith returns true if the string ends with the specified value.
+7.expandtabs()-it sets the tabsize of the string.
+8.find()-it searches for  the specified value in the string and returns the position where it was found.
+9.index()-it searches for the specified value in the string and returns the position where it was found.
+10.isalnum()-returns true if all the characters in the string are alphanumeric.
+11.isalpha()-returns true if all the characters in the string are alphabets.
+12.isascii()-returns true if all the  characters in the string are ascii characters.
+13.isdecimal()-returns true if all characters in string are decimals.
+14.isdigit()-returns true if all the charecters in the string are digits.
+15.isidentifier()-returns true if the string is an identifier.
+16.islower()-returns true if all the characters in the string are lower.
+17.isnumeric()-returns true if all the characters in the string are numeric.
+18.isprintable()-returnns true if all the characters in the straing are printable.
+19.isspace()-returns true if all the characters in the string are having whitespaces.
+20.istitle()-returns true if all the words in the string starts with uppercase.
+21.isupper()-returns true if all the characters in the string are uppercase.
+22.lower()-it converts the string into lowercase.
+23.replace()-returns the string where specified value is replaced with a specified value.
+24.rfind()-it searches for the specified value in the string and returns the position  where it was found.
+25.rindex()-it searches for the specified value in the string and returns the position where it was found.
+26.startswith()-returns true if the string starts with the specified value.
+27.swapcase()-swaps cases,lowercase to uppercase and viceversa.
+28.title()-it converts the first character of eachword to uppercase.
+29.upper()-it converts the string into uppercase.
+30.zfill()-fills the string with the specified number of 0 values at the begining.
+
+
+
+
+
+
+
